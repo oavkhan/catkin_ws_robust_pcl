@@ -1,0 +1,13 @@
+build
+devel
+logs
+.catkin_tools
+.rosinstall
+*.bak
+*.swp
+catkin_simple
+ceres_catkin
+eigen_catkin
+gflags_catkin
+glog_catkin
+pcl_catkin
